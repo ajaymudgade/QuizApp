@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="enter_your_name">Enter the name</string>
+    <string name="next">Next</string>
+    <string name="enter_your_question">Enter your question</string>
+    <string name="option_one">Option 1</string>
+    <string name="option_two">Option 2</string>
+    <string name="option_three">Option 3</string>
+    <string name="option_four">Option 4</string>
+    <string name="submit">Submit</string>
+    <string name="one_by_five">1/5</string>
+
+    <string name="congratulations">Congratulations Name !!</string>
+    <string name="your_score_is">Your score is</string>
+    <string name="four_by_five">4/5</string>
+    <string name="finish">Finish</string>
+
+</resources>
